@@ -1,0 +1,5 @@
+{
+    "notifications":true,
+    "stay_logged_in":false,
+    "ask_before_link_open":true
+}
