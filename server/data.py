@@ -134,13 +134,3 @@ class DataManeger:
 
 
 
-
-if __name__ == '__main__':
-    d = DataManeger()
-    # d.db['messages'].delete_many({'channel':'62029d0c4dc9e3575ba45e0c'})
-    # print(d.get_messages('62029d0c4dc9e3575ba45e0c'))
-    # d.db['messages'].delete_one({'time':1644399201.2139132})
-    # for i in d.db['conversations'].find({}):
-    #     print(i)
-    # d.db['messages'].delete_many({})
-    # d.db['conversations'].delete_many({})
